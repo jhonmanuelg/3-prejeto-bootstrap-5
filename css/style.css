@@ -1,0 +1,8 @@
+.card img {
+    height: 280px;
+}
+
+hr {
+    color: hsl(240, 100%, 27%);
+    border: 1px solid hsl(240, 100%, 27%);
+}
